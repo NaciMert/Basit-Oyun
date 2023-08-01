@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Başlangıç oyun.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Başlangıç oyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Beskonačni_Toranj.Form1.resources
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Beskonačni_Toranj.HighscoreUserControl.resources
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Beskonačni_Toranj.Properties.Resources.resources
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Başlangıç oyun.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Başlangıç oyun.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Beskonačni Toranj.exe
+C:\Users\HP\Desktop\Yapılan uygulamalar\Başlangıç oyun\obj\Debug\Beskonačni Toranj.pdb
